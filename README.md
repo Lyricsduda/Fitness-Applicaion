@@ -13,15 +13,13 @@ This is a application that allows user to be able to view create and track daily
 
 * [Installation](#installation)
 
-* [Usage](#usage)
-         
  * [License](#license)
-        
-* [Contributing](#contributing)
-         
- * [Tests](#tests) 
-         
-* [Questions](#questions) 
+ 
+ * [Screenshots](#screenshots)
+ 
+* [Deployment](#deployment)
+     
+* [Work's](#work's) 
 
 ## Installation
 
@@ -29,26 +27,21 @@ To install necessary dependencies, run the following command:
 
 > npm i
 
-## Usage
-
-
-
 ## License
 
 This project is under the MIT license.
 
-## Contributing
+## Screenshot
+
+
+
+## Deployment
         
 > 
 
-## Tests
 
-To run test's, run the following command:
-
-> npm tests
-
-## Questions
+## Work's
         
-If you have any questions about the repo, open an issue or contact me directly at . You can find more
+You can find more
 of my work at [lyricsduda](https://github.com/lyricsduda).
         
