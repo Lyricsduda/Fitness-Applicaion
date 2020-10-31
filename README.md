@@ -14,10 +14,11 @@ This is a application that allows user to be able to view create and track daily
 * [Installation](#installation)
 
  * [License](#license)
-        
+ 
+ * [Screenshots](#screenshots)
+ 
 * [Deployment](#deployment)
-         
-         
+     
 * [Work's](#work's) 
 
 ## Installation
