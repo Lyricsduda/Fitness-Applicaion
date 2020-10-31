@@ -33,12 +33,12 @@ This project is under the MIT license.
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/70404735/97768202-d9e77100-1af7-11eb-8e74-3a84135b2f58.png)
 
 
 ## Deployment
         
-> 
-
+> https://fitnessapplicaion.herokuapp.com/
 
 ## Work's
         
